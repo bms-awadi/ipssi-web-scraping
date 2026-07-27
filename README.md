@@ -22,6 +22,7 @@ Scraper de veille technologique sur le Blog du Modérateur (`requests` +
 
 - [`jour1/tp/`](jour1/tp/), le rendu : `scraper_bdm.py`, `articles.csv`, `articles.db`, et un `README.md` qui détaille le cadre légal et les écarts trouvés entre le sujet et le site réel.
 - [`jour1/td/`](jour1/td/) - la version pratiquée en cours.
+- [`jour1/bonus/`](jour1/bonus/) - défis autonomes du sujet.
 
 ## À venir
 
