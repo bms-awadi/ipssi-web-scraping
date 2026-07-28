@@ -3,7 +3,7 @@
 ## Remarque
 
 Le `robots.txt` de doctolib.fr interdit `/search`, `*/doctors/*` et
-`*/availabilities*` (voir [`../README.md`](../README.md))  et la page
+`*/availabilities*` et la page
 `/dentiste/nice` route en réalité côté client vers `/search?keyword=dentiste&location=nice`
 (confirmé via `document.baseURI` en DevTools). Ce dossier contient malgré tout
 un scraper fonctionnel exécuté sur les données réelles du site, à usage
