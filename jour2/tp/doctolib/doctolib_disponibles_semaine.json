@@ -1,0 +1,67 @@
+[
+  {
+    "nom_specialite": "Clinadent - Centre Dentaire Nice, Jean-Médecin - Centre dentaire",
+    "adresse": "8 chirurgiens-dentistes",
+    "type_consultation": [
+      "Cabinet"
+    ],
+    "prochains_creneaux": [
+      "Prochain RDV le 3 août 2026",
+      "Disponibilités à partir du mardi, juillet 28"
+    ],
+    "url_fiche": "https://www.doctolib.fr/centre-dentaire/nice/clinadent-nice?pid=practice-195558&phs=true&page=1&speciality_ids%5B%5D=1",
+    "prochain_rdv_date": "2026-08-03"
+  },
+  {
+    "nom_specialite": "Dr Aurélie BAILA ORLINKOV - Chirurgien-dentiste",
+    "adresse": "19 Boulevard Dubouchage 06000 Nice",
+    "type_consultation": [
+      "Cabinet"
+    ],
+    "prochains_creneaux": [
+      "Prochain RDV le 3 août 2026",
+      "Disponibilités à partir du mardi, juillet 28"
+    ],
+    "url_fiche": "https://www.doctolib.fr/dentiste/nice/aurelie-baila-orlinkov?pid=practice-78592&phs=true&page=1&index=1",
+    "prochain_rdv_date": "2026-08-03"
+  },
+  {
+    "nom_specialite": "Dr Christopher john MEYER - Chirurgien-dentiste",
+    "adresse": "40 Avenue Sainte-Marguerite 06200 Nice",
+    "type_consultation": [
+      "Cabinet"
+    ],
+    "prochains_creneaux": [
+      "Prochain RDV le 3 août 2026",
+      "Disponibilités à partir du mardi, juillet 28"
+    ],
+    "url_fiche": "https://www.doctolib.fr/dentiste/nice/christopher-john-meyer-nice?pid=practice-50670&phs=true&page=1&index=2",
+    "prochain_rdv_date": "2026-08-03"
+  },
+  {
+    "nom_specialite": "Dr Marie LHERMITTE - Chirurgien-dentiste",
+    "adresse": "40 Rue Trachel 06000 Nice",
+    "type_consultation": [
+      "Cabinet"
+    ],
+    "prochains_creneaux": [
+      "Prochain RDV le 3 août 2026",
+      "Disponibilités à partir du mardi, juillet 28"
+    ],
+    "url_fiche": "https://www.doctolib.fr/dentiste/nice/marie-lhermitte-paris?pid=practice-81307&phs=true&page=1&index=6",
+    "prochain_rdv_date": "2026-08-03"
+  },
+  {
+    "nom_specialite": "Dr Hadi Zarif Peyvandi - Chirurgien-dentiste",
+    "adresse": "62 Boulevard Napoléon III 06200 Nice",
+    "type_consultation": [
+      "Cabinet"
+    ],
+    "prochains_creneaux": [
+      "Prochain RDV le 3 août 2026",
+      "Disponibilités à partir du mardi, juillet 28"
+    ],
+    "url_fiche": "https://www.doctolib.fr/dentiste/nice/hadi-zarif-peyvandi-nice?pid=practice-745117&phs=true&page=1&index=9",
+    "prochain_rdv_date": "2026-08-03"
+  }
+]
