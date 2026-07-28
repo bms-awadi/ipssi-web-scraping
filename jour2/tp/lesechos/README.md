@@ -1,4 +1,4 @@
-# TD 2.2 — Les Echos : titres à la une
+# TD 2.2 Les Echos : titres à la une
 
 ## Cadre légal
 
@@ -9,7 +9,7 @@ Disallow: /internal
 Disallow: /recherche
 ```
 
-La page d'accueil (`/`) n'est **pas** interdite pour un robot générique —
+La page d'accueil (`/`) n'est **pas** interdite pour un robot générique
 contrairement à la longue liste de bots nommément bloqués juste en dessous
 (GPTBot, ClaudeBot, Amazonbot, CCBot, etc.), qui elle ne concerne que ces
 robots précis. Scraping de la page d'accueil autorisé.
@@ -17,12 +17,12 @@ robots précis. Scraping de la page d'accueil autorisé.
 ## Pourquoi Selenium et pas requests ?
 
 1. **Contenu en JS** : `requests` seul (`requests_check.py`) reçoit un
-   `403 Forbidden` avant même de savoir si le HTML contient les articles —
+   `403 Forbidden` avant même de savoir si le HTML contient les articles
    le WAF bloque la requête, pas seulement le rendu.
 2. **Le WAF cible spécifiquement le mode headless** : Selenium headless
    obtient la même page *"Access Denied"* qu'un simple `requests`. Seul le
    mode normal (visible), sans flag d'évasion particulier, passe. C'est
-   l'inverse du cas Doctolib (où headless fonctionne normalement) — la
+   l'inverse du cas Doctolib (où headless fonctionne normalement) la
    comparaison headless/normal n'a donc pas le même sens sur les deux sites,
    voir ci-dessous.
 
@@ -66,7 +66,7 @@ place :
 - titre : attribut `title` du premier `a[href]` de la carte (plus fiable
   que le texte affiché, qui peut être tronqué visuellement)
 - rubrique : dernière ligne de texte de la carte (hors `"PREMIUM"`)
-- `heure_publi` : ligne contenant *"Mis à jour"* ou un motif *"il y a N"* —
+- `heure_publi` : ligne contenant *"Mis à jour"* ou un motif *"il y a N"*
   absente sur la plupart des cartes (feature affichée seulement sur
   certains articles, pas un bug)
 - `chapeau` : aucun résumé affiché sur les cartes de la page d'accueil de
@@ -93,7 +93,7 @@ réservés aux abonnés (le corps du texte, lui, est tronqué par le paywall),
 et elles ne dépendent pas des classes CSS générées par le bundler.
 
 La limite à 15 est volontaire : chaque article visité est une requête de
-plus sur un site protégé par un WAF (voir plus haut) — mieux vaut rester
+plus sur un site protégé par un WAF (voir plus haut) mieux vaut rester
 discret qu'exhaustif. Un court délai aléatoire (0,5 à 1,5 s) sépare chaque
 visite. Les articles au-delà de la limite gardent `chapeau`/`heure_publi`
 tels que trouvés sur la carte (souvent vides).
