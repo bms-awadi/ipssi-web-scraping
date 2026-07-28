@@ -1,9 +1,9 @@
-# TD 2.1 — Doctolib : chirurgiens-dentistes à Nice
+# TD 2.1  Doctolib : chirurgiens-dentistes à Nice
 
 ## Remarque
 
 Le `robots.txt` de doctolib.fr interdit `/search`, `*/doctors/*` et
-`*/availabilities*` (voir [`../README.md`](../README.md)) — et la page
+`*/availabilities*` (voir [`../README.md`](../README.md))  et la page
 `/dentiste/nice` route en réalité côté client vers `/search?keyword=dentiste&location=nice`
 (confirmé via `document.baseURI` en DevTools). Ce dossier contient malgré tout
 un scraper fonctionnel exécuté sur les données réelles du site, à usage
@@ -25,7 +25,7 @@ strictement pédagogique et local (pas de republication, pas de volume).
 Chaque fiche est en réalité un `<a href=".../dentiste/nice/<slug>?...practice-...">`
 qui n'enveloppe que le nom du praticien, pas le reste de la carte (adresse,
 tarif, disponibilités). `extraction._racine_carte()` remonte jusqu'au
-conteneur complet avant de lire le texte visible ligne par ligne — les
+conteneur complet avant de lire le texte visible ligne par ligne les
 classes CSS internes (utilitaires Tailwind/design system) changent trop
 souvent pour servir de sélecteurs stables.
 
@@ -36,10 +36,10 @@ python doctolib_scraper.py
 ```
 
 Produit :
-- `doctolib.json` — les fiches extraites (5 champs du sujet + `prochain_rdv_date`)
-- `doctolib_disponibles_semaine.json` — sous-ensemble filtré : uniquement les
+- `doctolib.json` les fiches extraites (5 champs du sujet + `prochain_rdv_date`)
+- `doctolib_disponibles_semaine.json` sous-ensemble filtré : uniquement les
   praticiens dont le prochain RDV tombe dans les 7 jours suivant l'exécution
-- `screenshots/doctolib_erreur_<horodatage>.png` — capture automatique si
+- `screenshots/doctolib_erreur_<horodatage>.png` capture automatique si
   l'attente des résultats échoue
 
 ## Comparaison headless / normal
@@ -54,17 +54,17 @@ Dernière exécution mesurée :
 Les deux chiffres ne sont pas directement comparables : le mode headless
 s'arrête dès que le conteneur de résultats apparaît, alors que le mode
 normal inclut en plus le scroll et l'extraction complète. Sur ce site, le
-gain du headless n'est donc pas mesuré sur le même périmètre — pour une
+gain du headless n'est donc pas mesuré sur le même périmètre pour une
 comparaison à périmètre égal il faudrait chronométrer l'extraction complète
 dans les deux modes.
 
 ## Choix techniques
 
 - **URL** : `/chirurgien-dentiste/nice` (slug du sujet) redirige silencieusement
-  vers l'accueil — le bon slug actuel est `/dentiste/nice` (confirmé par
+  vers l'accueil le bon slug actuel est `/dentiste/nice` (confirmé par
   fetch direct : titre de page correct côté serveur).
 - **Anti-détection minimal** : `--disable-blink-features=AutomationControlled`
-  et `excludeSwitches: ["enable-automation"]`, plus un user-agent explicite —
+  et `excludeSwitches: ["enable-automation"]`, plus un user-agent explicite
   suffisant ici, pas de contournement supplémentaire.
 - **Sélecteurs de carte** : `a[href*='practice-']` (repli sur
   `a[href*='/dentiste/nice/']`) plutôt que les anciens `data-test-id`/classes
