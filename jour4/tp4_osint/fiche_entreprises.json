@@ -1,0 +1,276 @@
+{
+  "Amadeus": {
+    "entite": "Amadeus",
+    "sirene": {
+      "siren": "344496252",
+      "denomination": "AMADEUS",
+      "adresse_siege": "SOPHIA ANTIPOLIS 485 PIN MONTARD 06410 BIOT",
+      "code_naf": "62.02A",
+      "date_creation": "1988-11-08",
+      "nombre_etablissements": 6
+    },
+    "wikipedia": {
+      "infobox": {
+        "Création": "1987",
+        "Fondateurs": "Air France , Lufthansa , Iberia , SAS",
+        "Forme juridique": "Société par actions simplifiée [ 1 ]",
+        "Action": "BMAD : AMS",
+        "Slogan": "It's how travel works better.",
+        "Siège social": "Madrid , Communauté de Madrid Espagne",
+        "Direction": "José Antonio Tazon (Président du Conseil d'Administration) Luis Maroto ( CEO ) [ 2 ]",
+        "Président": "William Connelly ( d ) (depuis 2021 ) [ 3 ]",
+        "Activité": "Systèmes de réservations et produits autour du voyage",
+        "Produits": "Amadeus GDS, Altéa CMS, Amadeus Selling Platform",
+        "Effectif": "17 093",
+        "SIREN": "344496252",
+        "Site web": "https://amadeus.com/fr",
+        "Capitalisation": "24,897 Md€ au 23 août 2022",
+        "Chiffre d'affaires": "5,441 Md€ (2023) [ 4 ]",
+        "Résultat net": "1,118 Md€ (2023) [ 4 ]"
+      },
+      "intro": "AmadeusIT Group SAest une entrepriseespagnolede gestion pour la distribution et la vente de services de voyages.",
+      "url": "https://fr.wikipedia.org/wiki/Amadeus_(entreprise)"
+    },
+    "presse": [
+      {
+        "titre": "Prénom Amadeus (garçon) : signification, origine, caractère, saint, avis",
+        "source": "",
+        "date": "Tue, 11 Jan 2022 16:00:00 GMT",
+        "lien": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a6e5127f34e44f4aef7af4300e6ed9d&url=https%3a%2f%2fwww.journaldesfemmes.fr%2fprenoms%2famadeus%2fprenom-64327&c=6383546400728686399&mkt=fr-fr"
+      },
+      {
+        "titre": "\"Amadeus\" de Milos Forman, le film aux quarante récompenses",
+        "source": "",
+        "date": "Sat, 15 Jul 2023 01:00:00 GMT",
+        "lien": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a6e5127f34e44f4aef7af4300e6ed9d&url=https%3a%2f%2fwww.rts.ch%2finfo%2fculture%2fcinema%2f11594681-amadeus-de-milos-forman-le-film-aux-quarante-recompenses.html&c=16494362969095555834&mkt=fr-fr"
+      },
+      {
+        "titre": "AMADEUS IT GROUP, S.A.",
+        "source": "",
+        "date": "Fri, 31 Jul 2026 10:38:00 GMT",
+        "lien": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a6e5127f34e44f4aef7af4300e6ed9d&url=https%3a%2f%2fwww.zonebourse.com%2fcours%2faction%2fAMADEUS-IT-GROUP-S-A-4027320%2f&c=277511981200219653&mkt=fr-fr"
+      },
+      {
+        "titre": "Amadeus veut supprimer 460 emplois en France… malgré 200 M€ de crédit d'impôt",
+        "source": "",
+        "date": "Fri, 12 Dec 2025 03:43:00 GMT",
+        "lien": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a6e5127f34e44f4aef7af4300e6ed9d&url=https%3a%2f%2fwww.tourmag.com%2fAmadeus-veut-supprimer-460-emplois-en-France-malgre-200-M-de-credit-d-impot_a129753.html&c=3263639630321161341&mkt=fr-fr"
+      },
+      {
+        "titre": "AMADEUS construit le “système d’exploitation du voyage”, et s’offre le français IDEMIA PUBLIC SECURITY pour 1,2 milliard d’euros",
+        "source": "",
+        "date": "Sun, 03 May 2026 10:20:00 GMT",
+        "lien": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a6e5127f34e44f4aef7af4300e6ed9d&url=https%3a%2f%2fwww.frenchweb.fr%2famadeus-construit-le-systeme-dexploitation-du-voyage-et-soffre-le-francais-idemia-public-security-pour-12-milliard-deuros%2f461550&c=14474413131974560734&mkt=fr-fr"
+      },
+      {
+        "titre": "Amadeus : Jean-Christophe Carette nommé directeur commercial corporations France",
+        "source": "",
+        "date": "Thu, 18 Feb 2021 07:26:00 GMT",
+        "lien": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a6e5127f34e44f4aef7af4300e6ed9d&url=https%3a%2f%2fwww.tourmag.com%2fAmadeus-Jean-Christophe-Carette-nomme-directeur-commercial-corporations-France_a107270.html&c=12068189414262105764&mkt=fr-fr"
+      },
+      {
+        "titre": "Intelligence artificielle : Amadeus se prépare au déploiement d’Amadeus Max",
+        "source": "",
+        "date": "Thu, 02 Jul 2026 04:08:00 GMT",
+        "lien": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a6e5127f34e44f4aef7af4300e6ed9d&url=https%3a%2f%2fwww.lechotouristique.com%2farticle%2fintelligence-artificielle-amadeus-se-prepare-au-deploiement-damadeus-max&c=8334396853444124301&mkt=fr-fr"
+      },
+      {
+        "titre": "Amadeus et Microsoft annoncent un partenariat stratégique pour accélérer l’innovation dans l’univers du voyage",
+        "source": "",
+        "date": "Thu, 25 Feb 2021 16:00:00 GMT",
+        "lien": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a6e5127f34e44f4aef7af4300e6ed9d&url=https%3a%2f%2fnews.microsoft.com%2ffr-fr%2f2021%2f02%2f26%2famadeus-et-microsoft-annoncent-un-partenariat-strategique-pour-accelerer-linnovation-dans-lunivers-du-voyage%2f&c=10373777736773024892&mkt=fr-fr"
+      },
+      {
+        "titre": "Amadeus : 1,3 milliard d’euros de bénéfices en 2025, réinvestis dans la tech",
+        "source": "",
+        "date": "Fri, 27 Feb 2026 02:37:00 GMT",
+        "lien": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a6e5127f34e44f4aef7af4300e6ed9d&url=https%3a%2f%2fwww.lechotouristique.com%2farticle%2famadeus-13-milliard-deuros-de-benefices-en-2025-reinvestis-dans-la-tech&c=14820619317992553245&mkt=fr-fr"
+      },
+      {
+        "titre": "\"Amadeus\" par Olivier Solivérès : une mise en scène monumentale qui divise les critiques du Masque",
+        "source": "",
+        "date": "Sun, 15 Mar 2026 02:02:00 GMT",
+        "lien": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a6e5127f34e44f4aef7af4300e6ed9d&url=https%3a%2f%2fwww.radiofrance.fr%2ffranceinter%2fpodcasts%2fle-masque-et-la-plume%2famadeus-par-olivier-soliveres-9140232&c=15474490681658702415&mkt=fr-fr"
+      }
+    ],
+    "nb_articles": 10
+  },
+  "Capgemini": {
+    "entite": "Capgemini",
+    "sirene": {
+      "siren": "328781786",
+      "denomination": "CAPGEMINI FRANCE",
+      "adresse_siege": "145-151 145 QUAI DU PRESIDENT ROOSEVELT 92130 ISSY-LES-MOULINEAUX",
+      "code_naf": "62.02A",
+      "date_creation": "2019-02-01",
+      "nombre_etablissements": 111
+    },
+    "wikipedia": {
+      "infobox": {
+        "Création": "1 er octobre 1967",
+        "Dates clés": "1967 : Création de Sogeti 1974 : Acquisition de CAP (FR) et Gemini Computer Systems (USA) 2000 : Acquisition du pôle conseil de E&Y 2016 : Décès de Serge Kampf 2020 : Acquisition d' Altran",
+        "Fondateurs": "Serge Kampf",
+        "Forme juridique": "Société européenne [ 1 ] à conseil d'administration",
+        "Action": "Euronext : CAP",
+        "Slogan": "« Get the future you want » [ 2 ]",
+        "Siège social": "11 rue de Tilsitt 75017 Paris France",
+        "Coordonnées": "48° 52′ 29″ N, 2° 17′ 37″ E",
+        "Direction": "Paul Hermelin , Président du conseil d'administration Aiman Ezzat , Directeur général [ 3 ]",
+        "Activité": "ESN",
+        "Produits": "Stratégie et Transformation Applications et Technologie Ingénierie Operations",
+        "Filiales": "Sogeti , Capgemini Invent, Capgemini Engineering , WNS",
+        "Effectif": "358 400 (2022) [ 4 ] 300 000 (2021) [ 5 ]",
+        "SIREN": "330 703 844",
+        "TVA européenne": "FR06330703844 [ 6 ]",
+        "Site web": "capgemini.com",
+        "Capitalisation": "32,1 milliards d'€ ( 21 février 2023 ) [ 7 ]",
+        "Chiffre d'affaires": "22,1 milliards d'€ (2024) [ 8 ] −1,9 %",
+        "Résultat net": "1,7 milliard d'€ (2024) [ 8 ] +0,5 %"
+      },
+      "intro": "Capgeminiest uneentreprise de services du numériquefrançaise (ESN) créée parSerge Kampfen 1967 àGrenoble(Isère), sous le nom deSogeti. Basée àParis, la société fait partie duCAC 40à laBourse de Paris.",
+      "url": "https://fr.wikipedia.org/wiki/Capgemini"
+    },
+    "presse": [
+      {
+        "titre": "Capgemini prévoit dorénavant pour 2026 une croissance du CA comprise entre 8,5% et 9% sur un an à taux de change constants",
+        "source": "",
+        "date": "Thu, 30 Jul 2026 00:04:00 GMT",
+        "lien": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a6e512def2d489395c0379047e59a41&url=https%3a%2f%2fwww.zonebourse.com%2factualite-bourse%2fcapgemini-prevoit-dorenavant-pour-2026-une-croissance-du-ca-comprise-entre-8-5-et-9-sur-un-an-a-ta-ce7f51d3de81ff23&c=18430585742584054793&mkt=fr-fr"
+      },
+      {
+        "titre": "Capgemini met en vente sa filiale travaillant pour l’ICE, la controversée police américaine de l’immigration",
+        "source": "",
+        "date": "Sun, 01 Feb 2026 15:54:00 GMT",
+        "lien": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a6e512def2d489395c0379047e59a41&url=https%3a%2f%2fwww.lefigaro.fr%2fsocietes%2fcapgemini-met-en-vente-sa-filiale-travaillant-pour-l-ice-la-controversee-police-americaine-de-l-immigration-20260201&c=12027975005635689358&mkt=fr-fr"
+      },
+      {
+        "titre": "La demande en IA agentique tire l’activité de CapGemini",
+        "source": "",
+        "date": "Thu, 30 Jul 2026 03:16:00 GMT",
+        "lien": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a6e512def2d489395c0379047e59a41&url=https%3a%2f%2fwww.lefigaro.fr%2fsecteur%2fhigh-tech%2fla-demande-en-ia-agentique-tire-l-activite-de-capgemini-20260730&c=1292873895915968999&mkt=fr-fr"
+      },
+      {
+        "titre": "Capgemini dope ses perspectives 2026 de croissance",
+        "source": "",
+        "date": "Wed, 29 Jul 2026 22:22:00 GMT",
+        "lien": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a6e512def2d489395c0379047e59a41&url=https%3a%2f%2fwww.boursier.com%2factions%2factualites%2fnews%2fcapgemini-dope-ses-perspectives-2026-de-croissance-991139.html&c=659992501840596062&mkt=fr-fr"
+      },
+      {
+        "titre": "Capgemini rehausse sa cible annuelle de croissance après un premier semestre dynamique, tiré par l'IA agentique et l'Amérique du Nord",
+        "source": "",
+        "date": "Thu, 30 Jul 2026 06:53:00 GMT",
+        "lien": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a6e512def2d489395c0379047e59a41&url=https%3a%2f%2finvestir.lesechos.fr%2fconseils-boursiers%2fconseils-actions%2fcapgemini-rehausse-sa-cible-annuelle-de-croissance-apres-un-premier-semestre-dynamique-tire-par-lia-agentique-et-lamerique-du-nord-2245230&c=10610824272166730305&mkt=fr-fr"
+      },
+      {
+        "titre": "Capgemini relève sa prévision de croissance pour 2026 après un bon premier semestre",
+        "source": "",
+        "date": "Thu, 30 Jul 2026 00:04:00 GMT",
+        "lien": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a6e512def2d489395c0379047e59a41&url=https%3a%2f%2finvestir.lesechos.fr%2factu-des-valeurs%2fla-vie-des-actions%2fcapgemini-releve-sa-prevision-de-croissance-pour-2026-apres-un-bon-premier-semestre-2245160&c=8813566574993562339&mkt=fr-fr"
+      },
+      {
+        "titre": "Après un exercice sans relief, Capgemini aborde 2025 avec prudence",
+        "source": "",
+        "date": "Tue, 18 Feb 2025 00:37:00 GMT",
+        "lien": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a6e512def2d489395c0379047e59a41&url=https%3a%2f%2fwww.agefi.fr%2fnews%2fentreprises%2fcapgemini-anticipe-une-legere-amelioration-de-sa-rentabilite-en-2025&c=4525869532363017716&mkt=fr-fr"
+      },
+      {
+        "titre": "Capgemini prend 0,49%",
+        "source": "",
+        "date": "Fri, 31 Jul 2026 08:40:00 GMT",
+        "lien": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a6e512def2d489395c0379047e59a41&url=https%3a%2f%2fwww.boursier.com%2factions%2factualites%2fnews%2fcapgemini-cloture-en-legere-hausse-747414.html&c=6532164853338941439&mkt=fr-fr"
+      },
+      {
+        "titre": "Capgemini voit son bénéfice net reculer de près d’un tiers au premier semestre, pénalisé par le coût de son plan de restructuration",
+        "source": "",
+        "date": "Thu, 30 Jul 2026 01:29:00 GMT",
+        "lien": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a6e512def2d489395c0379047e59a41&url=https%3a%2f%2fvideo.lefigaro.fr%2ffigaro%2fsecteur%2fhigh-tech%2fcapgemini-voit-son-benefice-net-reculer-de-pres-d-un-tiers-au-premier-semestre-penalise-par-le-cout-de-son-plan-de-restructuration-20260730&c=73843173379382479&mkt=fr-fr"
+      },
+      {
+        "titre": "Capgemini: Capgemini se redresse, des propos d'analystes en soutien",
+        "source": "",
+        "date": "Fri, 31 Jul 2026 06:25:00 GMT",
+        "lien": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a6e512def2d489395c0379047e59a41&url=https%3a%2f%2fwww.tradingsat.com%2fcapgemini-FR0000125338%2factualites%2fcapgemini-capgemini-se-redresse-des-propos-d-analystes-en-soutien-1167956.html&c=6796433501942422042&mkt=fr-fr"
+      }
+    ],
+    "nb_articles": 10
+  },
+  "Mistral AI": {
+    "entite": "Mistral AI",
+    "sirene": {
+      "siren": "952418325",
+      "denomination": "MISTRAL AI",
+      "adresse_siege": "15 RUE DES HALLES 75001 PARIS",
+      "code_naf": "82.11Z",
+      "date_creation": "2023-12-11",
+      "nombre_etablissements": 4
+    },
+    "wikipedia": {
+      "infobox": {},
+      "intro": "Mistral AIest une entreprisefrançaisefondée enavril 2023, spécialisée dans l'intelligence artificielle générative. Elle développe degrands modèles de langagesopen sourceet propriétaires. Elle a été cofondée parArthur Mensch, Guillaume Lample et Timothée Lacroix[1].",
+      "url": "https://fr.wikipedia.org/wiki/Mistral_AI"
+    },
+    "presse": [
+      {
+        "titre": "De 20 à 400 millions de dollars : Mistral AI multiplie ses revenus par 20 et annonce une première en matière d’investissement",
+        "source": "",
+        "date": "Wed, 11 Feb 2026 09:30:00 GMT",
+        "lien": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a6e513513754b9ebcf5dd75f7793846&url=https%3a%2f%2fwww.presse-citron.net%2fmistral-ai-revenus-premiere-en-matiere-dinvestissement%2f&c=17492629809119823208&mkt=fr-fr"
+      },
+      {
+        "titre": "Un des cofondateurs de Mistral AI accusé d’avoir piraté des millions de livres quand il travaillait chez Meta",
+        "source": "",
+        "date": "Mon, 22 Dec 2025 09:26:00 GMT",
+        "lien": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a6e513513754b9ebcf5dd75f7793846&url=https%3a%2f%2fwww.liberation.fr%2feconomie%2feconomie-numerique%2fun-des-cofondateurs-de-mistral-ai-accuse-davoir-pirate-des-millions-de-livres-quand-il-travaillait-chez-meta-20251222_RGFHNU37AFFQTENP5PH6RARYKQ%2f&c=443929984624200415&mkt=fr-fr"
+      },
+      {
+        "titre": "Dernières heures pour activer Le Chat Pro de Mistral AI offert 12 mois aux abonnés Free Mobile",
+        "source": "",
+        "date": "Sun, 10 Aug 2025 11:48:00 GMT",
+        "lien": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a6e513513754b9ebcf5dd75f7793846&url=https%3a%2f%2fwww.universfreebox.com%2farticle%2f584861%2fdernieres-heures-pour-activer-loffre-le-chat-pro-de-mistral-ai-offert-12-mois-aux-abonnes-free-mobile&c=16727481316691759953&mkt=fr-fr"
+      },
+      {
+        "titre": "Intelligence artificielle. Comment Mistral s’est fait pigeonner par Microsoft",
+        "source": "",
+        "date": "Mon, 27 Jul 2026 17:00:00 GMT",
+        "lien": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a6e513513754b9ebcf5dd75f7793846&url=https%3a%2f%2fcharliehebdo.fr%2f2026%2f07%2fsociete%2ftech%2fintelligence-artificielle-comment-mistral-sest-fait-pigeonner-par-microsoft%2f&c=3025982961261040570&mkt=fr-fr"
+      },
+      {
+        "titre": "Qui est Mistral AI ? Tout comprendre sur la pépite française de l’IA derrière Le Chat",
+        "source": "",
+        "date": "Sat, 29 Mar 2025 02:06:00 GMT",
+        "lien": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a6e513513754b9ebcf5dd75f7793846&url=https%3a%2f%2fwww.numerama.com%2ftech%2f1901053-qui-est-mistral-ai-tout-comprendre-sur-la-pepite-francaise-de-lia-derriere-le-chat.html&c=2060473936951137447&mkt=fr-fr"
+      },
+      {
+        "titre": "Mistral AI dévoile Small 4, Leanstral et Forge : ce qu’il faut retenir des annonces",
+        "source": "",
+        "date": "Wed, 18 Mar 2026 03:07:00 GMT",
+        "lien": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a6e513513754b9ebcf5dd75f7793846&url=https%3a%2f%2fwww.blogdumoderateur.com%2fmistral-ai-devoile-small-4-leanstral-forge%2f&c=1601346182963742038&mkt=fr-fr"
+      },
+      {
+        "titre": "Mistral AI dernier d'un classement sur la gestion des risques IA, la start-up française conteste la méthodologie",
+        "source": "",
+        "date": "Mon, 06 Jul 2026 17:00:00 GMT",
+        "lien": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a6e513513754b9ebcf5dd75f7793846&url=https%3a%2f%2fwww.lefigaro.fr%2fsecteur%2fhigh-tech%2fmistral-ai-dernier-d-un-classement-sur-la-gestion-des-risques-ia-la-start-up-francaise-conteste-la-methodologie-20260707&c=1731318701493717019&mkt=fr-fr"
+      },
+      {
+        "titre": "Mistral AI : le champion européen de l’intelligence artificielle en cinq dates",
+        "source": "",
+        "date": "Fri, 03 Oct 2025 21:03:00 GMT",
+        "lien": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a6e513513754b9ebcf5dd75f7793846&url=https%3a%2f%2fwww.letelegramme.fr%2feconomie%2fentreprise%2fmistral-ai-le-champion-europeen-de-lintelligence-artificielle-en-cinq-dates-6902530.php&c=233562201515783911&mkt=fr-fr"
+      },
+      {
+        "titre": "Mistral AI lance Small 3.1, un modèle léger qui prétend surpasser la concurrence",
+        "source": "",
+        "date": "Tue, 18 Mar 2025 03:01:00 GMT",
+        "lien": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a6e513513754b9ebcf5dd75f7793846&url=https%3a%2f%2fwww.blogdumoderateur.com%2fmistral-ai-lance-small-3-1-surpasser-concurrence%2f&c=4129823656269959024&mkt=fr-fr"
+      },
+      {
+        "titre": "Mistral AI introduit Mistral AI Studio",
+        "source": "",
+        "date": "Wed, 29 Oct 2025 10:40:00 GMT",
+        "lien": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a6e513513754b9ebcf5dd75f7793846&url=https%3a%2f%2fwww.generation-nt.com%2factualites%2fmistral-ai-studio-production-entreprise-gouvernance-observabilite-2065131&c=7364512244518986786&mkt=fr-fr"
+      }
+    ],
+    "nb_articles": 10
+  }
+}

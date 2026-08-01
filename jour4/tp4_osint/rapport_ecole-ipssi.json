@@ -1,0 +1,29 @@
+{
+  "domaine": "ecole-ipssi.com",
+  "ip": "109.234.160.176",
+  "whois": {
+    "registrar": "IONOS SE",
+    "creation_date": "2014-03-06",
+    "expiration_date": "2027-03-06",
+    "name_servers": [
+      "NS1049.UI-DNS.BIZ",
+      "NS1049.UI-DNS.COM",
+      "NS1049.UI-DNS.DE",
+      "NS1049.UI-DNS.ORG"
+    ],
+    "country": "FR"
+  },
+  "headers_http": {
+    "status": 200,
+    "server": "o2switch-PowerBoost-v3",
+    "x_powered_by": "n/a",
+    "x_frame_options": "n/a",
+    "csp_present": false,
+    "hsts_present": false
+  },
+  "sous_domaines": [
+    "ecole-ipssi.com"
+  ],
+  "robots_txt": "User-agent: *\nDisallow: /secupress-0802e8d2/\nDisallow: /wp-admin/\nAllow: /wp-admin/admin-ajax.php\n\n# START YOAST BLOCK\n# ---------------------------\nUser-agent: *\nDisallow:\n\nSitemap: https://ecole-ipssi.com/sitemap_index.xml\n# ---------------------------\n# END YOAST BLOCK",
+  "nb_sous_domaines": 1
+}
